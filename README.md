@@ -1,1 +1,2 @@
-# Tableau-project-on-Zomato-data-analysis
+# This project is useful whenever we would like to visit a new place.we often search for most effective restaurant or most cost effective restaurant of decent quality.the most important criteria for all this is often rating and reviews of those that have already got experience in these restaurants. This Would help to find the most affordable restaurant in India and also discuss various relationships between various columns of information sets like between rating and cuisine type , locality and cuisine etc.
+Final Dashboards that provides various insights to make decisions.
